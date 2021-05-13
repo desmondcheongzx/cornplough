@@ -1,0 +1,9 @@
+mkdir -p logs
+dmesg -t > logs/dmesg_current
+dmesg -t -k > logs/dmesg_kernel
+dmesg -t -l emerg > logs/dmesg_current_emerg
+dmesg -t -l alert > logs/dmesg_current_alert
+dmesg -t -l crit > logs/dmesg_current_crit
+dmesg -t -l err > logs/dmesg_current_err
+dmesg -t -l warn > logs/dmesg_current_warn
+dmesg -t -l info > logs/dmesg_current_info
