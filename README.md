@@ -8,6 +8,7 @@ I'm currently participating in the summer 2021 cycle of the [Linux Kernel Mentor
 ### Evaluation reports
 - [First report](/notes/report1.md): summary of weeks 1-3 of the program
 - [Second report](/notes/report2.md): summary of weeks 4-6 of the program
+- [Third report](/notes/report3.md): summary of weeks 7-9 of the program
 
 ## Scripts
 
